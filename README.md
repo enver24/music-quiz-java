@@ -11,12 +11,16 @@ Built for the Programming Fundamentals unit of my Diploma of ICT at Western Sydn
 - Console report cards with scoring and percentage.
 
 ## Files
-- `MusicQuizProject/src/MusicQuizActor.java` – main game logic (song data, game modes, input handling and scoring)
+All files are in the `MusicQuizProject` folder:
+- `MusicQuizActor.java` – main game logic (song data, game modes, input handling and scoring)
+- `MyWorld.stride` / `MyWorld.java` – the Greenfoot world the quiz runs in
+- `project.greenfoot` – the Greenfoot project file
 
 ## How to Run
-1. Open project in **Greenfoot**.
-2. Create a new `MusicQuizActor` and add it to the world.
-3. Click **Act** to play the game.
+1. Download or clone this repository and install [Greenfoot](https://www.greenfoot.org/download).
+2. In Greenfoot, choose **Scenario → Open** and select the `MusicQuizProject` folder.
+3. Click **Compile**, then right-click `MusicQuizActor`, create a new one and place it in the world.
+4. Click **Act** to play the game. Results are printed to the Greenfoot terminal.
 
 ## Example Output
 Song Quiz mode with 3 songs, as printed to the Greenfoot console:
