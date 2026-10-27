@@ -11,8 +11,8 @@ Built as part of my Programming Fundamentals course.
 - Console report cards with scoring and percentage.
 
 ## Files
-- `src/MusicQuizActor.java` – main Java class (replace [Your Name] and [Your ID] in comments).
-- `MusicQuizData.docx` – Word table with the dataset (10 songs, artists, and True/False).
+- `src/MusicQuizActor.java`
+- `MusicQuizData.docx`
 
 ## How to Run
 1. Open project in **Greenfoot**.
