@@ -1,7 +1,7 @@
 # Music Quiz Project 🎵
 
 A simple quiz game written in Java using **Greenfoot**.  
-Built as part of my Programming Fundamentals course.  
+Built for the Programming Fundamentals unit of my Diploma of ICT at Western Sydney University.  
 
 ## Features
 - Two game modes:
